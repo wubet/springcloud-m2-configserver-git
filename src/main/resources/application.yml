@@ -10,7 +10,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/wubet/pluralsight-spring-cloudconfig-wa-tollsa
+          uri: https://github.com/wubet/pluralsight-spring-cloudconfig-wa-tolls
           
           search-paths:
             - 'station*'
